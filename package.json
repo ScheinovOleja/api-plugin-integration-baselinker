@@ -1,29 +1,25 @@
 {
-  "name": "@reactioncommerce/api-plugin-example",
-  "description": "Boilerplate Example plugin for the Reaction API",
+  "name": "@ScheinovOleja/api-plugin-integration-baselinker",
+  "description": "Reaction API for Baselinker integration",
   "label": "Example Plugin",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=14.18.1"
   },
-  "homepage": "https://github.com/reactioncommerce/api-plugin-example",
-  "url": "https://github.com/reactioncommerce/api-plugin-example",
-  "email": "hello-open-commerce@mailchimp.com",
+  "homepage": "https://github.com/ScheinovOleja/api-plugin-integration-baselinker",
+  "url": "https://github.com/ScheinovOleja/api-plugin-integration-baselinker",
+  "email": "oleg.sheinov@it-lead.eu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactioncommerce/api-plugin-example.git"
+    "url": "git+https://github.com/ScheinovOleja/api-plugin-integration-baselinker"
   },
   "author": {
-    "name": "Mailchimp Open Commerce",
-    "email": "hello-open-commerce@mailchimp.com",
-    "url": "https://mailchimp.com/developer/open-commerce/"
+    "name": "Developer from IT-LEAD",
+    "email": "oleg.sheinov@it-lead.eu"
   },
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/reactioncommerce/api-plugin-example/issues"
-  },
   "sideEffects": false,
   "dependencies": {
     "@reactioncommerce/api-utils": "^1.16.9"
