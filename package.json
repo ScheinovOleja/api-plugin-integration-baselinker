@@ -46,8 +46,8 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^2.0.1",
     "husky": "^5.0.8",
-    "jest": "^25.1.0",
-    "semantic-release": "^17.4.3"
+    "jest": "^28.1.1",
+    "semantic-release": "^19.0.3"
   },
   "scripts": {
     "lint": "npm run lint:eslint",
